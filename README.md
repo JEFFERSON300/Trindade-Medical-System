@@ -70,7 +70,7 @@ $ npm start
 ### Update
 
 <p align="justify">U - Dados que podem ser atualizados a depender da rota chamada. Cores diferentes significam rotas particulares para alteração de dados especificos. </p>
-<p align="justify"> $${\color{red}U}$$ - Atualiza apenas dados pessoais do paciente, médico ou enfermeiro.</p>
+<p align="justify"> <span style="color:red">U</span> - Atualiza apenas dados pessoais do paciente, médico ou enfermeiro.</p>
 <span style="color:red">U</span> - Atualiza dados relacionado ao status do paciente e do médico. </p>
 <span style="color:green">U</span> - Atualiza dados relacionado ao atendimento do médico ao paciente.
 
@@ -83,7 +83,7 @@ $ npm start
 D - Deleta dados do sistema de um respectivo paciente, médico ou enfermeiro apartir do id. <p>
 
 ## Melhorias
-
+  
 <p align="justify">Existem diversas atividades relacionadas aos pacientes, médicos e enfermeiros que poderiam ser implementadas no software, de acordo com o contexto e as necessidades do local onde ele será utilizado. Algumas possíveis funcionalidades incluem a medição do tempo médio de espera desde a chegada do paciente até o atendimento, o registro da quantidade de médicos e enfermeiros que faltaram em determinado dia e a geração de relatórios com informações sobre o fluxo de pacientes ao longo do tempo.</p>
 
 <p align="justify">A inclusão dessas funcionalidades no software pode trazer benefícios significativos para a gestão do atendimento em unidades de saúde. Por exemplo, a medição do tempo médio de espera pode ajudar a identificar gargalos no atendimento e a implementar medidas para reduzir o tempo de espera dos pacientes. Já o registro da quantidade de médicos e enfermeiros ausentes pode auxiliar na identificação de problemas de escalas de trabalho e na alocação mais eficiente de recursos humanos.</p>
