@@ -72,9 +72,9 @@ $ npm start
 ### Update
 
 <p align="justify">U - Dados que podem ser atualizados a depender da rota chamada. Cores diferentes significam rotas particulares para alteração de dados especificos. </p>
-<p align="justify"> <span style="color:red">U</span> - Atualiza apenas dados pessoais do paciente, médico ou enfermeiro.</p>
-<span style="color:red">U</span> - Atualiza dados relacionado ao status do paciente e do médico. </p>
-<span style="color:green">U</span> - Atualiza dados relacionado ao atendimento do médico ao paciente.
+<p align="justify"> <span style="color:red">U (azul)</span> - Atualiza apenas dados pessoais do paciente, médico ou enfermeiro.</p>
+<span style="color:red">U (vermelho)</span> - Atualiza dados relacionado ao status do paciente e do médico. </p>
+<span style="color:green">U (verde)</span> - Atualiza dados relacionado ao atendimento do médico ao paciente.
 
 ### Select
 
