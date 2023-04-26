@@ -84,6 +84,10 @@ $ npm start
 
 D - Deleta dados do sistema de um respectivo paciente, médico ou enfermeiro apartir do id. <p>
 
+## Vídeo tutorial de utilização da API
+
+https://drive.google.com/file/d/1q82-nyVGK6Yh2oAYzDlzxCQpBPrt6BCX/view?usp=share_link
+
 ## Melhorias
   
 <p align="justify">Existem diversas atividades relacionadas aos pacientes, médicos e enfermeiros que poderiam ser implementadas no software, de acordo com o contexto e as necessidades do local onde ele será utilizado. Algumas possíveis funcionalidades incluem a medição do tempo médio de espera desde a chegada do paciente até o atendimento, o registro da quantidade de médicos e enfermeiros que faltaram em determinado dia e a geração de relatórios com informações sobre o fluxo de pacientes ao longo do tempo.</p>
